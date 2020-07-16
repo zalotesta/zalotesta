@@ -12,7 +12,7 @@
 
 
 ### Hi there 👋
-### I'm Zalo Testa | @zalotesta
+### I'm Zalo Testa and I have always been a self-taught and technological enthusiast. Today, I am learning about frontend programming, crypto economy and blockchain. | @zalotesta
 
 <!--- 🔭 I’m currently working on .
 - 🌱 I’m currently learning .
